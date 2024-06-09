@@ -79,3 +79,6 @@ AST入门与实战知识星球实战目录
 
 [谷歌验证码V2初始还原](https://t.zsxq.com/16oC2Lxvm)
 
+# 知识星球二维码。
+
+![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg) 
